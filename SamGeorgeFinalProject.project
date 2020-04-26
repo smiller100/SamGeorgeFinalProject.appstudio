@@ -37,6 +37,14 @@
             "houseBars",
             "houseBars.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "houseInsertBar",
+            "houseInsertBar.json"
+          ]
         }
       ],
       "configxml": null,
@@ -55,7 +63,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "houseBars",
+      "firstform": "houseInsertBar",
       "fontFamily": "system",
       "homescreenTitle": "",
       "icon": "nsb/images/192.png",
