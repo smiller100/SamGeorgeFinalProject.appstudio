@@ -14,36 +14,27 @@
       "!type": "External",
       "file": [
         "forms",
-        "Home",
+        "Randomizer",
         "Elements",
-        "btnHomeRestaurant.json"
+        "btnRandomizer.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "Home",
+        "Randomizer",
         "Elements",
-        "btnHomeBar.json"
+        "txtaRandomizer.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "Home",
+        "Randomizer",
         "Elements",
-        "btnHomeNewBar.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "Home",
-        "Elements",
-        "btnHomeRandom.json"
+        "btnRandomHome.json"
       ]
     }
   ],
@@ -53,7 +44,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "Home",
+  "id": "Randomizer",
   "language": "JavaScript",
   "left": "0",
   "locked": false,

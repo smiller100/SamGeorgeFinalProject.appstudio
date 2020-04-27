@@ -36,6 +36,15 @@
         "Elements",
         "inptBarType.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "houseInsertBar",
+        "Elements",
+        "btnInsertBarHome.json"
+      ]
     }
   ],
   "class": "",

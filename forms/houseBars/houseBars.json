@@ -27,6 +27,15 @@
         "Elements",
         "txtaBars.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "houseBars",
+        "Elements",
+        "btnBarsHome.json"
+      ]
     }
   ],
   "class": "",

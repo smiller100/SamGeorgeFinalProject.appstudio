@@ -17,8 +17,13 @@ btnBars.onclick=function(){
       let message = ""
       for (i = 0; i <= results.length - 1; i++)
         message = message + results[i][1] + "\n"
-        txtaBars.value = message
+        let upperMessage = message.toUpperCase()
+        txtaBars.value = upperMessage
     }
   } else
     NSB.MsgBox("Error code: " + req.status)
+}
+
+btnBarsHome.onclick=function(){
+  ChangeForm(Home)
 }

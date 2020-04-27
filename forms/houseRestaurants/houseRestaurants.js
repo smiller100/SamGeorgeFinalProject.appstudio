@@ -23,3 +23,7 @@ btnRestaurants.onclick=function(){
 houseRestaurants.onshow=function(){
   txtaRestaurants_contents.style.height = "100px"
 }
+
+btnRestaurantsHome.onclick=function(){
+  ChangeForm(Home)
+}

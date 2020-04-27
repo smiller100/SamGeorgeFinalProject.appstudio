@@ -23,13 +23,13 @@
   "footer": "",
   "header": "Results",
   "headerCols": 2,
-  "height": 183,
+  "height": "auto",
   "hidden": "",
   "icon": "",
   "iconTitle": "",
-  "id": "txtaRestaurants",
+  "id": "txtaRandomizer",
   "inputmode": "",
-  "left": 17,
+  "left": 19,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -72,9 +72,9 @@
   "script": "",
   "spellcheck": "true",
   "style": "",
-  "top": 125,
+  "top": 93,
   "validation": "",
   "value": "",
   "valueCols": 10,
-  "width": 227
+  "width": 267
 }

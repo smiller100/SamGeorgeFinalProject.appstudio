@@ -14,3 +14,7 @@ btnNewBar.onclick=function(){
     NSB.MsgBox("Error: " + req.status);
   }
 }
+
+btnInsertBarHome.onclick=function(){
+  ChangeForm(Home)
+}
