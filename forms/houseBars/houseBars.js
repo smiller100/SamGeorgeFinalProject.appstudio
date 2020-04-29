@@ -3,7 +3,7 @@ var req = ""
 var results = ""
 
 houseBars.onshow=function(){
-  txtaBars_contents.style.height = "100px"
+  txtaBars_contents.style.height = "200px"
 }
 
 btnBars.onclick=function(){

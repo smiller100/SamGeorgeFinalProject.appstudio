@@ -21,7 +21,7 @@ btnRestaurants.onclick=function(){
 }
 
 houseRestaurants.onshow=function(){
-  txtaRestaurants_contents.style.height = "100px"
+  txtaRestaurants_contents.style.height = "200px"
 }
 
 btnRestaurantsHome.onclick=function(){

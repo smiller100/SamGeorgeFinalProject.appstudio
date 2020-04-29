@@ -19,7 +19,7 @@
   "display": "",
   "expanded_pmp": null,
   "fontFamily": "",
-  "fontSize": "",
+  "fontSize": "14",
   "fontStyle": "",
   "fontWeight": "",
   "footer": "",
@@ -40,7 +40,7 @@
   "mRight": "",
   "mTop": "",
   "max": "",
-  "maxlength": "",
+  "maxlength": "30",
   "min": "",
   "name": "",
   "onchange": "",
@@ -84,5 +84,5 @@
   "validation": "",
   "value": "",
   "valueCols": 10,
-  "width": "auto"
+  "width": 308
 }

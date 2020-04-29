@@ -2,7 +2,7 @@
   "!type": "Button_bs4",
   "ChangeForm": "",
   "appearance": " btn-secondary",
-  "backgroundColor": "",
+  "backgroundColor": "#E8BB5D",
   "badge": "",
   "badgeAppearance": " badge-info",
   "blockLevel": "",
@@ -21,7 +21,7 @@
   "fontFamily": "",
   "fontSize": "",
   "fontStyle": "",
-  "fontWeight": "",
+  "fontWeight": "bold",
   "groupStyle": "",
   "grouping": "",
   "height": "auto",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 224,
+  "top": 374,
   "value": "Random Activity",
   "width": "auto"
 }

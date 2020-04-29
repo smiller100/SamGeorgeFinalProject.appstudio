@@ -2,7 +2,7 @@
   "!type": "Form",
   "HTML": null,
   "attributes": "",
-  "background": "",
+  "background": "#5DBAE8",
   "backgroundimage": "",
   "borderColor": "",
   "borderStyle": "",
@@ -44,6 +44,15 @@
         "Home",
         "Elements",
         "btnHomeRandom.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Home",
+        "Elements",
+        "Label1.json"
       ]
     }
   ],
