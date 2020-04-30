@@ -17,7 +17,7 @@
   "fontWeight": "bold",
   "height": 30,
   "hidden": "",
-  "id": "Label1",
+  "id": "lblWelcome",
   "labelStyle": "text",
   "left": 6,
   "mAll": "",
